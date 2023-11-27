@@ -1,5 +1,6 @@
 @import "vars";
 @import "blog-page";
+@import "blog-details-page";
 
 * {
    margin: 0;
@@ -332,7 +333,7 @@ a {
 }
 
 .footer {
-   margin-top: 96px;
+   // margin-top: 96px;
    padding-bottom: 134px;
    display: flex;
    gap: 101px;
